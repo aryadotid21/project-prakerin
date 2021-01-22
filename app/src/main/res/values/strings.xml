@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Project Laporan Anomaly</string>
+
+    <string-array name="gardu">
+        <item>SUTT 150KV Bogor Baru - Kedung Badak</item>
+        <item>SUTT 150KV Bogor Baru - Sentul</item>
+        <item>SUTT 150KV Bogor Baru - Ciawi</item>
+    </string-array>
+    <string-array name="tower">
+        <item>Tower 1</item>
+        <item>Tower 2</item>
+        <item>Tower 3</item>
+    </string-array>
+    <string-array name="aksesoris">
+        <item>Isolator</item>
+        <item>Besi Siku</item>
+        <item>Grounding</item>
+    </string-array>
+    <string-array name="anomaly">
+        <item>Flash</item>
+        <item>Pecah</item>
+        <item>Gompal</item>
+    </string-array>
+</resources>
